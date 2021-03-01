@@ -1,0 +1,13 @@
+Class: Food
+
+Attributes
+-type (string)
+-ingredients (array)
+-temperature (string)
+-is_satisfying (boolean)
+
+Methods
+-forget (updates the temperature attribute)
+-find_hair (updates the is_satisfying attribute)
+-add_spice (updates the ingredients array)
+-add_tortilla (updates the type attribute)
