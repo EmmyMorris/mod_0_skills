@@ -1,0 +1,13 @@
+Class: Drink
+
+Attributes
+-type (string)
+-temperature (array)
+-has_alcohol (boolean)
+-liquid_amount (integer)
+
+Methods
+-switch (updates the type attribute)
+-cut_off (Updates the has_alcohol attribute)
+-add_ice (updates the temperature attribute)
+-refill (updates the liquid_amount attribute)
