@@ -1,0 +1,12 @@
+food = "Pizza"
+is_delicious = true
+food = "Taco"
+
+num2 = 5
+num7 = 3
+quotient = num7 / num2
+
+songs = ["Party In The USA", "Malibu", "The Climb", "Nobodys Perfect"]
+songs.drop(1)
+
+p food.size
