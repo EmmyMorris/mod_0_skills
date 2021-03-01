@@ -1,0 +1,13 @@
+Class: ChickenCaesarSalad
+
+Attributes
+-type = "Salad"
+-ingredients = ["Romain Lettuce", "Grilled Chicken Breast", "Caesar Dressing", "Parmesan Cheese"]
+-temperature = "room temperature"
+-is_satisfying = true
+
+Methods
+-forget_about (temperature = cold)
+-find_hair (is_satisfying = false)
+-add_spice (ingredients = ["Romain Lettuce", "Grilled Chicken Breast", "Caesar Dressing", "Parmesan Cheese", "Jalapeno"])
+-add_tortilla (type = "Taco")
