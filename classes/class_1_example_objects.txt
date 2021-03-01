@@ -1,0 +1,13 @@
+Instance: Margarita
+
+Attributes
+-type = "alcoholic"
+-ingredients = ["Tequila", "Lime Juice", "Grand Marnier", "Simple Syrup"]
+-has_alcohol = true
+-liquid_amount = 16 oz
+
+Methods
+-switch (type = soda)
+-cut_off (has_alcohol = false)
+-add_ice (ingredients = ["Tequila", "Lime Juice", "Grand Marnier", "Simple Syrup", "Ice"])
+-refill (liquid_amount = 24 oz)
