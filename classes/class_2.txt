@@ -7,7 +7,7 @@ Attributes
 -is_satisfying (boolean)
 
 Methods
--forget (updates the temperature attribute)
+-forget_about (updates the temperature attribute)
 -find_hair (updates the is_satisfying attribute)
--add_spice (updates the ingredients array)
+-add_spice (updates the ingredients attribute)
 -add_tortilla (updates the type attribute)
