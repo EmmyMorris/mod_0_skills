@@ -7,7 +7,7 @@ Attributes
 -liquid_amount = 16 oz
 
 Methods
--switch (type = soda)
+-switch_drink (type = soda)
 -cut_off (has_alcohol = false)
 -add_ice (ingredients = ["Tequila", "Lime Juice", "Grand Marnier", "Simple Syrup", "Ice"])
--refill (liquid_amount = 24 oz)
+-refill_drink (liquid_amount = 24 oz)
